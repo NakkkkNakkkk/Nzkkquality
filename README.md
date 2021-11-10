@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Nzkkquality
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Nzkkquality/Nzkkquality is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Nakkk
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Khmer Language and Coding
+- 💞️ I’m looking to collaborate on You
+- 📫 How to reach me (Contact me with Gmail: seryratanaks@gmail.com )
