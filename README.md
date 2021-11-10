@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Nakkk
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Khmer Language and Coding
-- 💞️ I’m looking to collaborate on You
-- 📫 How to reach me (Contact me with Gmail: seryratanaks@gmail.com )
